@@ -1,0 +1,48 @@
+---
+title: "About"
+---
+
+
+I am a psychology lecturer and researcher whose work focuses on eyewitness identification, memory, confidence, decision-making, and the application of computational approaches to legal evidence.
+
+My research seeks to understand how eyewitness evidence is generated, how its reliability can be estimated, and how uncertainty can be communicated within legal decision-making contexts.
+
+A central aim of this work is to move beyond qualitative assessments of eyewitness evidence towards calibrated, interpretable, and empirically grounded estimates of reliability.
+
+## Current Research Programme
+
+The current programme integrates several complementary strands of research:
+
+- Eyewitness memory and forgetting
+- Witnessing conditions and identification accuracy
+- Probabilistic modelling
+- Evidence accumulation and decision processes
+- Confidence and metacognition
+- Juror decision-making
+- Ecological validity and virtual reality
+
+Together, these themes contribute towards the long-term goal of developing scientifically grounded methods for quantifying, estimating, and communicating eyewitness reliability.
+
+## Research Philosophy
+
+My approach combines basic psychological science with applied legal questions.
+
+I am particularly interested in research that not only explains cognitive processes but also has the potential to improve real-world decision-making. This includes developing models that are transparent, interpretable, and capable of supporting the evaluation of evidence in practical settings.
+
+## Teaching
+
+Alongside research, I teach undergraduate and postgraduate psychology, with particular interests in cognitive psychology and quantitative research methods, but I have regularly taught all BPS core modules, and others including forensic psychology and cyberpsychology.
+
+My teaching philosophy emphasises making lessons fun and engaging, confidence-building, accessibility, and active discussion.
+
+I receive consistent excellent feedback from students, and compared to peers, mostly achieve the highest average grades across the modules I teach.
+
+## Future Directions
+
+Future work will extend the programme through research on individual differences in eyewitness performance, immersive virtual reality methodologies, and the communication of probabilistic evidence to legal decision-makers.
+
+## Contact
+
+For research collaborations, or general enquiries, please get in touch.
+sfarmer@arden.ac.uk
+

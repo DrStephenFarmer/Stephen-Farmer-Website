@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stephen Farmer"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: programme.qmd
+        text: Research Programme
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: impact.qmd
+        text: Impact & Funding
+      - href: about.qmd
+        text: About
+        
+  page-footer:
+    left: "Dr Stephen Farmer"
+    center: "Computational Estimation of Eyewitness Reliability"
+    
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

@@ -1,0 +1,167 @@
+---
+title: "Research Programme"
+---
+
+
+
+## The Challenge
+
+Eyewitness evidence remains one of the most influential forms of evidence in criminal investigations and criminal trials. However, eyewitness accuracy varies substantially across individuals, witnessing conditions, and decision contexts.
+
+While decades of research have identified factors associated with eyewitness error, courts and investigators are still largely required to evaluate eyewitness evidence qualitatively rather than quantitatively. The central challenge underpinning this programme is therefore:
+
+> How can we estimate the reliability of eyewitness evidence?
+
+Addressing this challenge requires understanding the mechanisms that influence eyewitness accuracy, developing computational models capable of integrating those mechanisms, and determining how such information can be communicated effectively within legal settings.
+
+## Research Vision
+
+The long-term aim of this programme is to develop calibrated, interpretable, and empirically grounded methods for estimating eyewitness reliability.
+
+The programme integrates memory science, decision science, metacognition, computational modelling, and legal decision-making research. Together, these approaches seek to move beyond identifying factors that influence eyewitness performance towards estimating the probability that an eyewitness identification is correct under specified conditions.
+
+<h2>Research Programme Roadmap</h2>
+
+<div class="figure-wrapper">
+  <img src="images/roadmap.png" alt="Research programme roadmap towards the computational estimation of eyewitness reliability">
+</div>
+
+# Research Themes
+
+## Theme 1: Witnessing Conditions
+
+### Research Question
+
+How do witnessing conditions influence eyewitness reliability?
+
+### Focus
+
+This theme investigates how variables such as retention interval, viewing distance, exposure duration, stress, lighting, and environmental conditions influence eyewitness memory and identification performance.
+
+### Current Work
+
+* Forgetting curve modelling
+* Viewing distance study
+* Exposure duration study
+* Estimator variable modelling
+
+---
+
+## Theme 2: Computational Modelling of Eyewitness Decisions
+
+### Research Question
+
+How can eyewitness identification decisions be modelled computationally?
+
+### Focus
+
+This theme develops computational accounts of eyewitness decision-making. Current work uses Bayesian modelling and drift diffusion models to investigate how witnessing conditions, confidence, response time, and identification accuracy are related.
+
+The aim is to move beyond describing factors that influence eyewitness performance towards developing calibrated and interpretable models capable of estimating eyewitness reliability under specified conditions.
+
+### Current Work
+
+- Bayesian modelling of eyewitness identification accuracy
+- Drift diffusion modelling of evidence accumulation
+- Evidence diagnosticity as a computational summary of decision quality
+- Modelling confidence, response time, and accuracy
+- Calibration and predictive model evaluation
+
+---
+
+## Theme 3: Confidence & Metacognition
+
+### Research Question
+
+When and why does confidence predict accuracy?
+
+### Focus
+
+This theme investigates how eyewitnesses monitor and evaluate their own memory, and whether confidence judgments provide meaningful information regarding identification accuracy.
+
+### Current Work
+
+* Confidence–accuracy relationships
+* Confidence calibration
+* Metacognitive sensitivity
+* Confidence under varying witnessing conditions
+
+---
+
+## Theme 4: Individual Differences
+
+### Research Question
+
+Why are some individuals more accurate eyewitnesses than others?
+
+### Focus
+
+This theme examines cognitive, perceptual, and metacognitive factors that may explain individual variation in eyewitness performance.
+
+### Future Work
+
+* Cognitive predictors of eyewitness performance
+* Memory ability and identification accuracy
+* Perceptual expertise
+* Metacognitive individual differences
+
+---
+
+## Theme 5: Ecological Validity & Virtual Reality
+
+### Research Question
+
+Do laboratory findings generalise to realistic eyewitness experiences?
+
+### Focus
+
+This theme seeks to increase the realism of eyewitness research through immersive and naturalistic methodologies while maintaining experimental control.
+
+### Current Work (in development)
+
+* Virtual reality eyewitness paradigms
+* Naturalistic witnessing environments
+* Presence and realism research
+* Behavioural and emotional responses in VR
+
+---
+
+## Theme 6: Jury Decision Making
+
+### Research Question
+
+How can scientific evidence regarding eyewitness reliability be communicated effectively to legal decision makers?
+
+### Focus
+
+This theme examines how jurors and other legal decision makers interpret eyewitness evidence and how uncertainty can be communicated in a transparent and understandable manner.
+
+### Future Work
+
+* Probability communication
+* Reliability estimation frameworks
+* Decision support approaches
+* Jury interpretation of eyewitness evidence
+
+---
+
+# Research Roadmap
+
+The programme follows a progression from basic mechanisms through to practical application:
+
+**Witnessing Conditions**
+→ **Evidence Accumulation**
+→ **Confidence & Metacognition**
+→ **Individual Differences**
+→ **Ecological Validity & Virtual Reality**
+→ **Jury Decision Making**
+
+Together, these themes contribute towards the development of computationally informed methods for estimating eyewitness reliability.
+
+---
+
+# Long-Term Objective
+
+To develop scientifically grounded, interpretable, and empirically calibrated approaches capable of providing meaningful estimates of eyewitness reliability for research, policy, and legal decision making.
+
+---

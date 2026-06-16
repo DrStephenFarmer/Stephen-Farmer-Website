@@ -1,0 +1,74 @@
+---
+title: " "
+title-block-banner: false
+---
+
+<div class="hero-title">
+
+<h1>Computational Estimation of Eyewitness Reliability</h1>
+
+<p class="hero-subtitle">
+A research programme integrating memory science, decision science, and computational modelling to develop scientifically grounded methods for estimating eyewitness reliability and communicating uncertainty within legal decision-making contexts.
+</p>
+
+</div>
+
+<div class="challenge-box">
+
+### Grand Challenge
+
+**How can eyewitness reliability be quantified, estimated, and communicated?**
+
+This programme addresses the challenge of moving from qualitative judgments about eyewitness evidence towards calibrated, interpretable, and empirically grounded estimates of reliability.
+
+</div>
+
+<div class="figure-wrapper">
+  <img src="images/programmeOverview.png" alt="Overview of the eyewitness reliability research programme">
+</div>
+
+<h2>Research at a Glance</h2>
+
+<div class="glance-grid">
+
+<div class="glance-card">
+<div class="glance-number">1</div>
+<div class="glance-label">Published Article</div>
+</div>
+
+<div class="glance-card">
+<div class="glance-number">2</div>
+<div class="glance-label">Papers Under Review</div>
+</div>
+
+<div class="glance-card">
+<div class="glance-number">2</div>
+<div class="glance-label">Papers in Development</div>
+</div>
+
+<div class="glance-card">
+<div class="glance-number">6</div>
+<div class="glance-label">Research Themes</div>
+</div>
+
+</div>
+
+<div class="vision-box">
+
+<h3>Research Programme Roadmap</h3>
+
+<p>
+The programme progresses from foundational science on memory, confidence, and evidence diagnosticity, through predictive computational modelling and ecological validation, towards practical applications within the justice system.
+</p>
+
+<p>
+<a href="programme.html">View the full research programme →</a>
+</p>
+
+</div>
+
+<div class="button-row">
+  <a class="homepage-button" href="programme.html">Research Programme</a>
+  <a class="homepage-button" href="projects.html">Projects</a>
+  <a class="homepage-button" href="publications.html">Publications</a>
+</div>

@@ -1,0 +1,141 @@
+---
+title: "Projects"
+---
+
+The projects below contribute to the broader goal of developing scientifically grounded methods for quantifying, estimating, and communicating eyewitness reliability.
+
+## Current Research
+
+<div class="research-project">
+
+<span class="status-badge completed">Completed</span>
+
+### Eyewitness Forgetting and Retention Interval Modelling
+
+**Research Question**  
+How does eyewitness accuracy change over time?
+
+**Overview**  
+This project investigates how retention interval influences eyewitness identification accuracy across timescales ranging from minutes to months.
+
+**Contribution**  
+Provides foundational evidence regarding how memory decay influences eyewitness reliability.
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge ongoing">Ongoing</span>
+
+### Estimating Eyewitness Identification Accuracy Across Witnessing Conditions
+
+**Research Question**  
+Can eyewitness identification accuracy be estimated probabilistically across varying witnessing conditions?
+
+**Overview**  
+This project develops calibrated probabilistic models of eyewitness identification accuracy across conditions including retention interval, separation distance, and exposure duration.
+
+**Contribution**  
+Provides the probabilistic estimation framework that underpins the broader goal of computational estimation of eyewitness reliability.
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge ongoing">Ongoing</span>
+
+### Evidence Diagnosticity as a Common Computational Currency in Eyewitness Identification
+
+**Research Question**  
+Can diverse influences on eyewitness performance be understood through a common computational measure of evidence diagnosticity?
+
+**Overview**  
+This project applies drift diffusion modelling to eyewitness decisions to examine how witnessing conditions and confidence influence evidence accumulation, response time, and identification accuracy.
+
+**Contribution**  
+Provides a computational framework linking witnessing conditions, confidence, and identification decisions.
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge ongoing">Ongoing</span>
+
+### Confidence and Metacognition in Eyewitness Identification
+
+**Research Question**  
+When and why does confidence predict eyewitness accuracy?
+
+**Overview**  
+This project investigates confidence calibration and metacognitive sensitivity under varying witnessing conditions.
+
+**Contribution**  
+Examines how witnesses evaluate their own memory and when confidence can inform reliability assessments.
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge ongoing">Ongoing</span>
+
+### Juror Decision-Making and Communication of Eyewitness Reliability
+
+**Research Question**  
+How can eyewitness reliability and uncertainty be communicated effectively to legal decision-makers?
+
+**Overview**  
+This research theme examines how jurors evaluate eyewitness evidence, how confidence and reliability information influence judgments, and how scientific evidence regarding eyewitness accuracy can be communicated effectively within legal settings.
+
+Current work includes the evaluation of the Turnbull safeguard and broader investigations of juror reasoning, evidence interpretation, and decision-making.
+
+**Contribution**  
+Provides the bridge between computational estimation of eyewitness reliability and its practical application within the justice system.
+
+</div>
+
+## Emerging Research Themes
+
+<div class="research-project">
+
+<span class="status-badge emerging">Emerging</span>
+
+### Individual Differences in Eyewitness Performance
+
+**Research Question**  
+Why are some individuals more accurate eyewitnesses than others?
+
+**Current Activities**
+
+- Literature synthesis
+- Theoretical development
+- Study design
+
+**Future Objective**  
+To identify cognitive, perceptual, and metacognitive characteristics associated with superior eyewitness performance.
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge emerging">Emerging</span>
+
+### Ecological Validity and Virtual Reality
+
+**Research Question**  
+Do laboratory findings generalise to realistic eyewitness experiences?
+
+**Current Activities**
+
+- Presence research
+- VR methodology development
+- Technical infrastructure development
+
+**Future Objective**  
+To develop immersive and ecologically valid eyewitness paradigms capable of bridging the gap between laboratory research and real-world witnessing experiences.
+
+</div>
+
+## Programme Integration
+
+Together, these projects form a coherent programme progressing from the study of witnessing conditions and memory processes, through computational modelling of eyewitness decisions and confidence, towards increasingly realistic witnessing environments and ultimately the communication of reliability estimates to legal decision-makers.
+

@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Research Programme",
+    "section": "",
+    "text": "Eyewitness evidence remains one of the most influential forms of evidence in criminal investigations and criminal trials. However, eyewitness accuracy varies substantially across individuals, witnessing conditions, and decision contexts.\nWhile decades of research have identified factors associated with eyewitness error, courts and investigators are still largely required to evaluate eyewitness evidence qualitatively rather than quantitatively. The central challenge underpinning this programme is therefore:\n\nHow can we estimate the reliability of eyewitness evidence?\n\nAddressing this challenge requires understanding the mechanisms that influence eyewitness accuracy, developing computational models capable of integrating those mechanisms, and determining how such information can be communicated effectively within legal settings."
+  },
+  {
+    "objectID": "programme.html#the-challenge",
+    "href": "programme.html#the-challenge",
+    "title": "Research Programme",
+    "section": "",
+    "text": "Eyewitness evidence remains one of the most influential forms of evidence in criminal investigations and criminal trials. However, eyewitness accuracy varies substantially across individuals, witnessing conditions, and decision contexts.\nWhile decades of research have identified factors associated with eyewitness error, courts and investigators are still largely required to evaluate eyewitness evidence qualitatively rather than quantitatively. The central challenge underpinning this programme is therefore:\n\nHow can we estimate the reliability of eyewitness evidence?\n\nAddressing this challenge requires understanding the mechanisms that influence eyewitness accuracy, developing computational models capable of integrating those mechanisms, and determining how such information can be communicated effectively within legal settings."
+  },
+  {
+    "objectID": "programme.html#research-vision",
+    "href": "programme.html#research-vision",
+    "title": "Research Programme",
+    "section": "Research Vision",
+    "text": "Research Vision\nThe long-term aim of this programme is to develop calibrated, interpretable, and empirically grounded methods for estimating eyewitness reliability.\nThe programme integrates memory science, decision science, metacognition, computational modelling, and legal decision-making research. Together, these approaches seek to move beyond identifying factors that influence eyewitness performance towards estimating the probability that an eyewitness identification is correct under specified conditions.\n\nResearch Programme Roadmap"
+  },
+  {
+    "objectID": "programme.html#theme-1-witnessing-conditions",
+    "href": "programme.html#theme-1-witnessing-conditions",
+    "title": "Research Programme",
+    "section": "Theme 1: Witnessing Conditions",
+    "text": "Theme 1: Witnessing Conditions\n\nResearch Question\nHow do witnessing conditions influence eyewitness reliability?\n\n\nFocus\nThis theme investigates how variables such as retention interval, viewing distance, exposure duration, stress, lighting, and environmental conditions influence eyewitness memory and identification performance.\n\n\nCurrent Work\n\nForgetting curve modelling\nViewing distance study\nExposure duration study\nEstimator variable modelling"
+  },
+  {
+    "objectID": "programme.html#theme-2-evidence-accumulation",
+    "href": "programme.html#theme-2-evidence-accumulation",
+    "title": "Research Programme",
+    "section": "Theme 2: Evidence Accumulation",
+    "text": "Theme 2: Evidence Accumulation\n\nResearch Question\nHow is evidence accumulated and transformed into identification decisions?\n\n\nFocus\nThis theme applies computational approaches to understand the cognitive processes underlying eyewitness decisions. Particular emphasis is placed on modelling uncertainty, evidence quality, and decision formation.\n\n\nCurrent Work\n\nBayesian modelling\nDrift diffusion modelling\nEvidence accumulation frameworks\nComputational modelling of identification decisions"
+  },
+  {
+    "objectID": "programme.html#theme-3-confidence-metacognition",
+    "href": "programme.html#theme-3-confidence-metacognition",
+    "title": "Research Programme",
+    "section": "Theme 3: Confidence & Metacognition",
+    "text": "Theme 3: Confidence & Metacognition\n\nResearch Question\nWhen and why does confidence predict accuracy?\n\n\nFocus\nThis theme investigates how eyewitnesses monitor and evaluate their own memory, and whether confidence judgments provide meaningful information regarding identification accuracy.\n\n\nCurrent Work\n\nConfidence–accuracy relationships\nConfidence calibration\nMetacognitive sensitivity\nConfidence under varying witnessing conditions"
+  },
+  {
+    "objectID": "programme.html#theme-4-individual-differences",
+    "href": "programme.html#theme-4-individual-differences",
+    "title": "Research Programme",
+    "section": "Theme 4: Individual Differences",
+    "text": "Theme 4: Individual Differences\n\nResearch Question\nWhy are some individuals more accurate eyewitnesses than others?\n\n\nFocus\nThis theme examines cognitive, perceptual, and metacognitive factors that may explain individual variation in eyewitness performance.\n\n\nFuture Work\n\nCognitive predictors of eyewitness performance\nMemory ability and identification accuracy\nPerceptual expertise\nMetacognitive individual differences"
+  },
+  {
+    "objectID": "programme.html#theme-5-ecological-validity-virtual-reality",
+    "href": "programme.html#theme-5-ecological-validity-virtual-reality",
+    "title": "Research Programme",
+    "section": "Theme 5: Ecological Validity & Virtual Reality",
+    "text": "Theme 5: Ecological Validity & Virtual Reality\n\nResearch Question\nDo laboratory findings generalise to realistic eyewitness experiences?\n\n\nFocus\nThis theme seeks to increase the realism of eyewitness research through immersive and naturalistic methodologies while maintaining experimental control.\n\n\nCurrent Work (in development)\n\nVirtual reality eyewitness paradigms\nNaturalistic witnessing environments\nPresence and realism research\nBehavioural and emotional responses in VR"
+  },
+  {
+    "objectID": "programme.html#theme-6-jury-decision-making",
+    "href": "programme.html#theme-6-jury-decision-making",
+    "title": "Research Programme",
+    "section": "Theme 6: Jury Decision Making",
+    "text": "Theme 6: Jury Decision Making\n\nResearch Question\nHow can scientific evidence regarding eyewitness reliability be communicated effectively to legal decision makers?\n\n\nFocus\nThis theme examines how jurors and other legal decision makers interpret eyewitness evidence and how uncertainty can be communicated in a transparent and understandable manner.\n\n\nFuture Work\n\nProbability communication\nReliability estimation frameworks\nDecision support approaches\nJury interpretation of eyewitness evidence"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This research programme seeks to understand how eyewitness evidence is generated, how its reliability can be estimated, and how that information can be interpreted within legal decision-making contexts."
+  },
+  {
+    "objectID": "publications.html#published-research",
+    "href": "publications.html#published-research",
+    "title": "Publications",
+    "section": "Published Research",
+    "text": "Published Research\n\nPublished\n\nTemporal Dynamics of Eyewitness Memory: Evidence for a Multiphase Forgetting Curve From Minutes to Months\nFarmer, Turner, & Kaye (2026)\nApplied Cognitive Psychology\nSummary\nThis study investigated eyewitness memory retention from minutes to months and identified a three-phase pattern of forgetting consisting of rapid early forgetting, a period of relative stability, and gradual longer-term decline.\nProgramme Contribution\nProvides foundational evidence regarding how memory decay influences eyewitness reliability."
+  },
+  {
+    "objectID": "publications.html#research-under-review",
+    "href": "publications.html#research-under-review",
+    "title": "Publications",
+    "section": "Research Under Review",
+    "text": "Research Under Review\n\nUnder Review\n\nEstimating Eyewitness Identification Accuracy Across Witnessing Conditions: A Probabilistic Modelling Approach\nFarmer et al.\nUnder review at the Journal of Applied Research in Memory and Cognition\nSummary\nThis paper develops calibrated probabilistic models that estimate eyewitness identification accuracy across varying witnessing conditions, combining retention interval, viewing distance, and exposure duration.\nProgramme Contribution\nProvides the probabilistic estimation framework that underpins the broader goal of computational estimation of eyewitness reliability.\n\n\n\nUnder Review\n\nEvidence Diagnosticity as a Common Computational Currency in Eyewitness Identification\nFarmer et al.\nUnder review at Memory & Cognition\nSummary\nThis paper applies drift diffusion modelling to eyewitness identification decisions to investigate how witnessing conditions and confidence influence evidence accumulation.\nProgramme Contribution\nProvides a computational framework linking witnessing conditions, confidence, response time, and identification accuracy."
+  },
+  {
+    "objectID": "publications.html#papers-in-development",
+    "href": "publications.html#papers-in-development",
+    "title": "Publications",
+    "section": "Papers in Development",
+    "text": "Papers in Development\n\nIn Development\n\nConfidence and Metacognition in Eyewitness Identification\nSummary\nThis paper investigates confidence calibration and metacognitive sensitivity under varying witnessing conditions.\nProgramme Contribution\nExamines how witnesses evaluate their own memory and the circumstances under which confidence can inform reliability assessments.\n\n\n\nIn Development\n\nReassessing the Turnbull Safeguard: Juror Decision-Making and the Evaluation of Identification Evidence\nSummary\nThis paper examines the Turnbull direction through the lens of cognitive psychology, drawing on research on juror decision-making, narrative construction, heuristic reasoning, and belief revision.\nProgramme Contribution\nExtends the programme from estimating eyewitness reliability to understanding how eyewitness evidence is interpreted and evaluated within legal decision-making contexts."
+  },
+  {
+    "objectID": "publications.html#research-trajectory",
+    "href": "publications.html#research-trajectory",
+    "title": "Publications",
+    "section": "Research Trajectory",
+    "text": "Research Trajectory\nCollectively, these publications contribute to a broader programme seeking to understand how eyewitness evidence is generated, how its reliability can be estimated, and how uncertainty can be communicated within legal settings."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The projects below contribute to the broader goal of developing scientifically grounded methods for quantifying, estimating, and communicating eyewitness reliability."
+  },
+  {
+    "objectID": "projects.html#current-research",
+    "href": "projects.html#current-research",
+    "title": "Projects",
+    "section": "Current Research",
+    "text": "Current Research\n\nCompleted\n\nEyewitness Forgetting and Retention Interval Modelling\nResearch Question\nHow does eyewitness accuracy change over time?\nOverview\nThis project investigates how retention interval influences eyewitness identification accuracy across timescales ranging from minutes to months.\nContribution\nProvides foundational evidence regarding how memory decay influences eyewitness reliability.\n\n\n\nOngoing\n\nEstimating Eyewitness Identification Accuracy Across Witnessing Conditions\nResearch Question\nCan eyewitness identification accuracy be estimated probabilistically across varying witnessing conditions?\nOverview\nThis project develops calibrated probabilistic models of eyewitness identification accuracy across conditions including retention interval, separation distance, and exposure duration.\nContribution\nProvides the probabilistic estimation framework that underpins the broader goal of computational estimation of eyewitness reliability.\n\n\n\nOngoing\n\nEvidence Diagnosticity as a Common Computational Currency in Eyewitness Identification\nResearch Question\nCan diverse influences on eyewitness performance be understood through a common computational measure of evidence diagnosticity?\nOverview\nThis project applies drift diffusion modelling to eyewitness decisions to examine how witnessing conditions and confidence influence evidence accumulation, response time, and identification accuracy.\nContribution\nProvides a computational framework linking witnessing conditions, confidence, and identification decisions.\n\n\n\nOngoing\n\nConfidence and Metacognition in Eyewitness Identification\nResearch Question\nWhen and why does confidence predict eyewitness accuracy?\nOverview\nThis project investigates confidence calibration and metacognitive sensitivity under varying witnessing conditions.\nContribution\nExamines how witnesses evaluate their own memory and when confidence can inform reliability assessments.\n\n\n\nOngoing\n\nJuror Decision-Making and Communication of Eyewitness Reliability\nResearch Question\nHow can eyewitness reliability and uncertainty be communicated effectively to legal decision-makers?\nOverview\nThis research theme examines how jurors evaluate eyewitness evidence, how confidence and reliability information influence judgments, and how scientific evidence regarding eyewitness accuracy can be communicated effectively within legal settings.\nCurrent work includes the evaluation of the Turnbull safeguard and broader investigations of juror reasoning, evidence interpretation, and decision-making.\nContribution\nProvides the bridge between computational estimation of eyewitness reliability and its practical application within the justice system."
+  },
+  {
+    "objectID": "projects.html#emerging-research-themes",
+    "href": "projects.html#emerging-research-themes",
+    "title": "Projects",
+    "section": "Emerging Research Themes",
+    "text": "Emerging Research Themes\n\nEmerging\n\nIndividual Differences in Eyewitness Performance\nResearch Question\nWhy are some individuals more accurate eyewitnesses than others?\nCurrent Activities\n\nLiterature synthesis\nTheoretical development\nStudy design\n\nFuture Objective\nTo identify cognitive, perceptual, and metacognitive characteristics associated with superior eyewitness performance.\n\n\n\nEmerging\n\nEcological Validity and Virtual Reality\nResearch Question\nDo laboratory findings generalise to realistic eyewitness experiences?\nCurrent Activities\n\nPresence research\nVR methodology development\nTechnical infrastructure development\n\nFuture Objective\nTo develop immersive and ecologically valid eyewitness paradigms capable of bridging the gap between laboratory research and real-world witnessing experiences."
+  },
+  {
+    "objectID": "projects.html#programme-integration",
+    "href": "projects.html#programme-integration",
+    "title": "Projects",
+    "section": "Programme Integration",
+    "text": "Programme Integration\nTogether, these projects form a coherent programme progressing from the study of witnessing conditions and memory processes, through computational modelling of eyewitness decisions and confidence, towards increasingly realistic witnessing environments and ultimately the communication of reliability estimates to legal decision-makers."
+  },
+  {
+    "objectID": "impact.html",
+    "href": "impact.html",
+    "title": "Impact & Funding",
+    "section": "",
+    "text": "This research programme is designed to connect basic psychological science with practical questions about how eyewitness evidence is evaluated in legal contexts."
+  },
+  {
+    "objectID": "impact.html#practical-impact",
+    "href": "impact.html#practical-impact",
+    "title": "Impact & Funding",
+    "section": "Practical Impact",
+    "text": "Practical Impact\nEyewitness identification evidence can have substantial consequences for criminal investigations, prosecutions, and jury decision-making. However, courts and investigators often face the challenge of evaluating eyewitness evidence under conditions of uncertainty.\nThis programme aims to support more informed evaluation of eyewitness evidence by developing scientifically grounded approaches for estimating reliability, communicating uncertainty, and improving decision-making."
+  },
+  {
+    "objectID": "impact.html#legal-and-policy-relevance",
+    "href": "impact.html#legal-and-policy-relevance",
+    "title": "Impact & Funding",
+    "section": "Legal and Policy Relevance",
+    "text": "Legal and Policy Relevance\nThe programme has direct relevance to questions concerning:\n\neyewitness identification procedures\njudicial guidance on identification evidence\njuror interpretation of eyewitness testimony\ncommunication of uncertainty in criminal trials\nevidence-based reform of legal safeguards\nInvestigations\n\nA central long-term aim is to contribute to guidance that is psychologically informed, empirically grounded, and usable within real legal settings."
+  },
+  {
+    "objectID": "impact.html#methodological-contributions",
+    "href": "impact.html#methodological-contributions",
+    "title": "Impact & Funding",
+    "section": "Methodological Contributions",
+    "text": "Methodological Contributions\nThe programme also contributes methodologically by integrating:\n\nprobabilistic modelling\nevidence accumulation models\nconfidence calibration\nmetacognitive analysis\nimmersive virtual reality methods\napplied jury decision-making research\n\nTogether, these approaches provide a framework for moving beyond qualitative descriptions of eyewitness risk factors towards calibrated estimates of reliability."
+  },
+  {
+    "objectID": "impact.html#funding-potential",
+    "href": "impact.html#funding-potential",
+    "title": "Impact & Funding",
+    "section": "Funding Potential",
+    "text": "Funding Potential\nThe programme is well positioned for future funding in areas such as:\n\nmemory and cognition\nlegal psychology\ncriminal justice\ncomputational social science\nartificial intelligence and decision support\nimmersive technologies and virtual reality\nevidence communication and public policy\n\nFuture grant applications could develop from several strands of the programme, including computational estimation of eyewitness reliability, VR-based eyewitness research, individual differences in eyewitness accuracy, and juror interpretation of probabilistic evidence."
+  },
+  {
+    "objectID": "impact.html#pathway-to-impact",
+    "href": "impact.html#pathway-to-impact",
+    "title": "Impact & Funding",
+    "section": "Pathway to Impact",
+    "text": "Pathway to Impact\nThe long-term pathway to impact involves:\n\nidentifying factors that influence eyewitness reliability\ndeveloping models that estimate accuracy under specified conditions\nvalidating these models in increasingly realistic settings\ntesting how reliability estimates are understood by legal decision-makers\ntranslating findings into guidance, tools, and policy-relevant recommendations"
+  },
+  {
+    "objectID": "impact.html#long-term-impact-goal",
+    "href": "impact.html#long-term-impact-goal",
+    "title": "Impact & Funding",
+    "section": "Long-Term Impact Goal",
+    "text": "Long-Term Impact Goal\nThe ultimate impact goal is to improve how eyewitness evidence is interpreted in criminal justice settings by developing transparent, explainable, and empirically grounded methods for estimating and communicating eyewitness reliability."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nComputational Estimation of Eyewitness Reliability\n",
+    "section": "",
+    "text": "A research programme integrating memory science, decision science, and computational modelling to develop scientifically grounded methods for estimating eyewitness reliability and communicating uncertainty within legal decision-making contexts.\n\n\n\nGrand Challenge\nHow can eyewitness reliability be quantified, estimated, and communicated?\nThis programme addresses the challenge of moving from qualitative judgments about eyewitness evidence towards calibrated, interpretable, and empirically grounded estimates of reliability.\n\n\n\n\n\nResearch at a Glance\n\n\n\n\n1\n\n\nPublished Article\n\n\n\n\n2\n\n\nPapers Under Review\n\n\n\n\n2\n\n\nPapers in Development\n\n\n\n\n6\n\n\nResearch Themes\n\n\n\n\n\nResearch Programme Roadmap\n\n\nThe programme progresses from foundational science on memory, confidence, and evidence diagnosticity, through predictive computational modelling and ecological validation, towards practical applications within the justice system.\n\n\nView the full research programme →\n\n\n\nResearch Programme Projects Publications"
+  },
+  {
+    "objectID": "index.html#the-challenge",
+    "href": "index.html#the-challenge",
+    "title": "\nComputational Estimation of Eyewitness Reliability\n",
+    "section": "The Challenge",
+    "text": "The Challenge\nEyewitness evidence remains one of the most influential forms of evidence in criminal investigations and criminal trials. However, eyewitness accuracy can vary substantially as a function of witnessing conditions, memory processes, confidence judgments, and decision-making factors.\nCurrent legal guidance identifies factors associated with eyewitness error, but provides limited means of estimating the likely reliability of a particular identification. Consequently, judges, juries, investigators, and legal practitioners are often required to evaluate eyewitness evidence using qualitative assessments rather than quantitative estimates of reliability."
+  },
+  {
+    "objectID": "index.html#research-vision",
+    "href": "index.html#research-vision",
+    "title": "\nComputational Estimation of Eyewitness Reliability\n",
+    "section": "Research Vision",
+    "text": "Research Vision\nThe long-term aim of this research programme is to develop calibrated, interpretable, and empirically grounded methods for estimating eyewitness reliability.\nBy integrating experimental psychology, computational modelling, metacognition, and legal decision-making research, the programme seeks to move beyond identifying factors that influence accuracy towards estimating the probability that an eyewitness identification is correct under specified conditions.\nThe ultimate goal is to develop scientifically grounded frameworks that support the interpretation of eyewitness evidence while remaining transparent, explainable, and suitable for real-world legal contexts.\n\nResearch Themes\n\n\n\n\nWitnessing Conditions\n\n\nDistance, retention interval, exposure duration, stress, and environmental factors.\n\n\n\n\nEvidence Accumulation\n\n\nBayesian modelling, drift diffusion models, and computational estimation.\n\n\n\n\nConfidence & Metacognition\n\n\nConfidence calibration, metacognitive sensitivity, and self-monitoring.\n\n\n\n\nIndividual Differences\n\n\nWhy some individuals are consistently more accurate eyewitnesses than others.\n\n\n\n\nEcological Validity & VR\n\n\nImmersive and naturalistic eyewitness research.\n\n\n\n\nJury Decision Making\n\n\nCommunication of reliability and interpretation of evidence.\n\n\n\n\nCurrent Research\n\n\n\n\nEyewitness Forgetting\n\n\nPublished research examining memory retention from minutes to months.\n\n\n\n\nProbabilistic Modelling\n\n\nBayesian modelling of eyewitness identification accuracy across witnessing conditions.\n\n\n\n\nEvidence Diagnosticity\n\n\nDrift diffusion modelling of confidence, response time, and accuracy.\n\n\n\n\nMetacognition\n\n\nUnderstanding confidence calibration and metacognitive sensitivity.\n\n\n\n\nTurnbull Safeguard\n\n\nEvaluating juror decision-making and judicial guidance on identification evidence.\n\n\n\n\nEmerging Research Themes\n\n\n\n\nIndividual Differences\n\n\nInvestigating why some people are more accurate eyewitnesses than others.\n\n\n\n\nEcological Validity & VR\n\n\nDeveloping immersive and ecologically valid eyewitness paradigms."
+  },
+  {
+    "objectID": "index.html#long-term-objective",
+    "href": "index.html#long-term-objective",
+    "title": "\nComputational Estimation of Eyewitness Reliability\n",
+    "section": "Long-Term Objective",
+    "text": "Long-Term Objective\nTo develop computationally informed, empirically calibrated approaches capable of providing interpretable estimates of eyewitness reliability that can inform research, policy, and legal decision making."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a psychology lecturer and researcher whose work focuses on eyewitness identification, memory, confidence, decision-making, and the application of computational approaches to legal evidence.\nMy research seeks to understand how eyewitness evidence is generated, how its reliability can be estimated, and how uncertainty can be communicated within legal decision-making contexts.\nA central aim of this work is to move beyond qualitative assessments of eyewitness evidence towards calibrated, interpretable, and empirically grounded estimates of reliability."
+  },
+  {
+    "objectID": "about.html#current-research-programme",
+    "href": "about.html#current-research-programme",
+    "title": "About",
+    "section": "Current Research Programme",
+    "text": "Current Research Programme\nThe current programme integrates several complementary strands of research:\n\nEyewitness memory and forgetting\nWitnessing conditions and identification accuracy\nProbabilistic modelling\nEvidence accumulation and decision processes\nConfidence and metacognition\nJuror decision-making\nEcological validity and virtual reality\n\nTogether, these themes contribute towards the long-term goal of developing scientifically grounded methods for quantifying, estimating, and communicating eyewitness reliability."
+  },
+  {
+    "objectID": "about.html#research-philosophy",
+    "href": "about.html#research-philosophy",
+    "title": "About",
+    "section": "Research Philosophy",
+    "text": "Research Philosophy\nMy approach combines basic psychological science with applied legal questions.\nI am particularly interested in research that not only explains cognitive processes but also has the potential to improve real-world decision-making. This includes developing models that are transparent, interpretable, and capable of supporting the evaluation of evidence in practical settings."
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "About",
+    "section": "Teaching",
+    "text": "Teaching\nAlongside research, I teach undergraduate and postgraduate psychology, with particular interests in cognitive psychology and quantitative research methods, but I have regularly taught all BPS core modules, and others including forensic psychology and cyberpsychology.\nMy teaching philosophy emphasises making lessons fun and engaging, confidence-building, accessibility, and active discussion.\nI receive consistent excellent feedback from students, and compared to peers, mostly achieve the highest average grades across the modules I teach."
+  },
+  {
+    "objectID": "about.html#future-directions",
+    "href": "about.html#future-directions",
+    "title": "About",
+    "section": "Future Directions",
+    "text": "Future Directions\nFuture work will extend the programme through research on individual differences in eyewitness performance, immersive virtual reality methodologies, and the communication of probabilistic evidence to legal decision-makers."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFor research collaborations, or general enquiries, please get in touch. sfarmer@arden.ac.uk"
+  },
+  {
+    "objectID": "programme.html#theme-2-computational-modelling-of-eyewitness-decisions",
+    "href": "programme.html#theme-2-computational-modelling-of-eyewitness-decisions",
+    "title": "Research Programme",
+    "section": "Theme 2: Computational Modelling of Eyewitness Decisions",
+    "text": "Theme 2: Computational Modelling of Eyewitness Decisions\n\nResearch Question\nHow can eyewitness identification decisions be modelled computationally?\n\n\nFocus\nThis theme develops computational accounts of eyewitness decision-making. Current work uses Bayesian modelling and drift diffusion models to investigate how witnessing conditions, confidence, response time, and identification accuracy are related.\nThe aim is to move beyond describing factors that influence eyewitness performance towards developing calibrated and interpretable models capable of estimating eyewitness reliability under specified conditions.\n\n\nCurrent Work\n\nBayesian modelling of eyewitness identification accuracy\nDrift diffusion modelling of evidence accumulation\nEvidence diagnosticity as a computational summary of decision quality\nModelling confidence, response time, and accuracy\nCalibration and predictive model evaluation"
+  }
+]

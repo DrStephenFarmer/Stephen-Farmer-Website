@@ -1,0 +1,94 @@
+---
+title: "Publications"
+---
+
+This research programme seeks to understand how eyewitness evidence is generated, how its reliability can be estimated, and how that information can be interpreted within legal decision-making contexts.
+
+## Published Research
+
+<div class="research-project">
+
+<span class="status-badge published">Published</span>
+
+### Temporal Dynamics of Eyewitness Memory: Evidence for a Multiphase Forgetting Curve From Minutes to Months
+
+**Farmer, Turner, & Kaye (2026)**  
+*Applied Cognitive Psychology*
+
+**Summary**  
+This study investigated eyewitness memory retention from minutes to months and identified a three-phase pattern of forgetting consisting of rapid early forgetting, a period of relative stability, and gradual longer-term decline.
+
+**Programme Contribution**  
+Provides foundational evidence regarding how memory decay influences eyewitness reliability.
+
+</div>
+
+## Research Under Review
+
+<div class="research-project">
+
+<span class="status-badge review">Under Review</span>
+
+### Estimating Eyewitness Identification Accuracy Across Witnessing Conditions: A Probabilistic Modelling Approach
+
+**Farmer et al.**  
+*Under review at the Journal of Applied Research in Memory and Cognition*
+
+**Summary**  
+This paper develops calibrated probabilistic models that estimate eyewitness identification accuracy across varying witnessing conditions, combining retention interval, viewing distance, and exposure duration.
+
+**Programme Contribution**  
+Provides the probabilistic estimation framework that underpins the broader goal of computational estimation of eyewitness reliability.
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge review">Under Review</span>
+
+### Evidence Diagnosticity as a Common Computational Currency in Eyewitness Identification
+
+**Farmer et al.**  
+*Under review at Memory & Cognition*
+
+**Summary**  
+This paper applies drift diffusion modelling to eyewitness identification decisions to investigate how witnessing conditions and confidence influence evidence accumulation.
+
+**Programme Contribution**  
+Provides a computational framework linking witnessing conditions, confidence, response time, and identification accuracy.
+
+</div>
+
+## Papers in Development
+
+<div class="research-project">
+
+<span class="status-badge development">In Development</span>
+
+### Confidence and Metacognition in Eyewitness Identification
+
+**Summary**  
+This paper investigates confidence calibration and metacognitive sensitivity under varying witnessing conditions.
+
+**Programme Contribution**  
+Examines how witnesses evaluate their own memory and the circumstances under which confidence can inform reliability assessments.
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge development">In Development</span>
+
+### Reassessing the Turnbull Safeguard: Juror Decision-Making and the Evaluation of Identification Evidence
+
+**Summary**  
+This paper examines the Turnbull direction through the lens of cognitive psychology, drawing on research on juror decision-making, narrative construction, heuristic reasoning, and belief revision.
+
+**Programme Contribution**  
+Extends the programme from estimating eyewitness reliability to understanding how eyewitness evidence is interpreted and evaluated within legal decision-making contexts.
+
+</div>
+
+## Research Trajectory
+
+Collectively, these publications contribute to a broader programme seeking to understand how eyewitness evidence is generated, how its reliability can be estimated, and how uncertainty can be communicated within legal settings.

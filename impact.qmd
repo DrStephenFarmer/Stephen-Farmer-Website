@@ -1,0 +1,67 @@
+---
+title: "Impact & Funding"
+---
+
+This research programme is designed to connect basic psychological science with practical questions about how eyewitness evidence is evaluated in legal contexts.
+
+## Practical Impact
+
+Eyewitness identification evidence can have substantial consequences for criminal investigations, prosecutions, and jury decision-making. However, courts and investigators often face the challenge of evaluating eyewitness evidence under conditions of uncertainty.
+
+This programme aims to support more informed evaluation of eyewitness evidence by developing scientifically grounded approaches for estimating reliability, communicating uncertainty, and improving decision-making.
+
+## Legal and Policy Relevance
+
+The programme has direct relevance to questions concerning:
+
+-   eyewitness identification procedures
+-   judicial guidance on identification evidence
+-   juror interpretation of eyewitness testimony
+-   communication of uncertainty in criminal trials
+-   evidence-based reform of legal safeguards
+-   Investigations
+
+A central long-term aim is to contribute to guidance that is psychologically informed, empirically grounded, and usable within real legal settings.
+
+## Methodological Contributions
+
+The programme also contributes methodologically by integrating:
+
+-   probabilistic modelling
+-   evidence accumulation models
+-   confidence calibration
+-   metacognitive analysis
+-   immersive virtual reality methods
+-   applied jury decision-making research
+
+Together, these approaches provide a framework for moving beyond qualitative descriptions of eyewitness risk factors towards calibrated estimates of reliability.
+
+## Funding Potential
+
+The programme is well positioned for future funding in areas such as:
+
+-   memory and cognition
+-   legal psychology
+-   criminal justice
+-   computational social science
+-   artificial intelligence and decision support
+-   immersive technologies and virtual reality
+-   evidence communication and public policy
+
+Future grant applications could develop from several strands of the programme, including computational estimation of eyewitness reliability, VR-based eyewitness research, individual differences in eyewitness accuracy, and juror interpretation of probabilistic evidence.
+
+## Pathway to Impact
+
+The long-term pathway to impact involves:
+
+1.  identifying factors that influence eyewitness reliability
+2.  developing models that estimate accuracy under specified conditions
+3.  validating these models in increasingly realistic settings
+4.  testing how reliability estimates are understood by legal decision-makers
+5.  translating findings into guidance, tools, and policy-relevant recommendations
+
+## Long-Term Impact Goal
+
+The ultimate impact goal is to improve how eyewitness evidence is interpreted in criminal justice settings by developing transparent, explainable, and empirically grounded methods for estimating and communicating eyewitness reliability.
+
+------------------------------------------------------------------------

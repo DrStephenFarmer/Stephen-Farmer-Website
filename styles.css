@@ -1,0 +1,243 @@
+.challenge-box {
+  background-color: #f4f7fb;
+  border-left: 6px solid #244c8f;
+  padding: 1.2rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.challenge-box h3 {
+  margin-top: 0;
+  color: #244c8f;
+}
+
+.figure-wrapper {
+  text-align: center;
+  margin: 2rem 0 2.5rem 0;
+}
+
+.figure-wrapper img {
+  max-width: 100%;
+  width: 950px;
+  border-radius: 8px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+}
+
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem 0;
+  flex-wrap: wrap;
+}
+
+.homepage-button {
+  background-color: #244c8f;
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.homepage-button:hover {
+  background-color: #1b3768;
+  color: white;
+}
+
+.theme-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  width: 100%;
+  clear: both;
+}
+
+.theme-card {
+  padding: 1.5rem;
+  border-radius: 8px;
+  color: white;
+  min-height: 220px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.12);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 900px) {
+  .theme-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-card h3 {
+  margin-top: 0;
+  color: white;
+}
+
+.witnessing {
+  background: #244c8f;
+}
+
+.accumulation {
+  background: #6f42c1;
+}
+
+.confidence {
+  background: #e67e22;
+}
+
+.individual {
+  background: #2e8b57;
+}
+
+.vr {
+  background: #006d77;
+}
+
+.jury {
+  background: #b8860b;
+}
+
+.vr {
+  background-color: #006d77 !important;
+}
+
+
+
+.theme-card.vr {
+  background: #006d77 !important;
+  background-color: #006d77 !important;
+}
+
+.theme-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.theme-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.18);
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.project-card {
+  background: #f8f9fa;
+  border-left: 5px solid #244c8f;
+  padding: 1.2rem;
+  border-radius: 8px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.15);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #244c8f;
+}
+
+.glance-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem 0;
+}
+
+.glance-card {
+  background: #f8f9fa;
+  border-top: 5px solid #244c8f;
+  padding: 1.2rem;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+}
+
+.glance-number {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #244c8f;
+  line-height: 1;
+}
+
+.glance-label {
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+.vision-box {
+  background: #f8f9fa;
+  border-left: 6px solid #244c8f;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+}
+
+.vision-box h3 {
+  margin-top: 0;
+  color: #244c8f;
+}
+.research-project {
+  background: #ffffff;
+  border-left: 6px solid #244c8f;
+  padding: 1.4rem;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+}
+
+.research-project h3 {
+  margin-top: 0.8rem;
+  color: #244c8f;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.status-badge.published {
+  background: #2e8b57;
+}
+
+.status-badge.review {
+  background: #6f42c1;
+}
+
+.status-badge.development {
+  background: #e67e22;
+}
+
+.status-badge.emerging {
+  background: #007b8a;
+}
+
+.hero-name {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #777;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.status-badge.completed {
+  background: #2e8b57;
+}
+
+.status-badge.ongoing {
+  background: #6f42c1;
+}
