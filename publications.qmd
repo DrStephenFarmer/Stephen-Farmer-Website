@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-This research programme seeks to understand how eyewitness evidence is generated, how its reliability can be estimated, and how that information can be interpreted within legal decision-making contexts.
+This publication portfolio contributes to a broader research programme focused on developing scientifically grounded methods for estimating eyewitness reliability and translating those findings into evidence-based guidance, policy, and practice within the justice system.
 
 ## Published Research
 
@@ -15,11 +15,14 @@ This research programme seeks to understand how eyewitness evidence is generated
 **Farmer, Turner, & Kaye (2026)**  
 *Applied Cognitive Psychology*
 
+**Roadmap Stage**  
+Witnessing Conditions
+
 **Summary**  
 This study investigated eyewitness memory retention from minutes to months and identified a three-phase pattern of forgetting consisting of rapid early forgetting, a period of relative stability, and gradual longer-term decline.
 
 **Programme Contribution**  
-Provides foundational evidence regarding how memory decay influences eyewitness reliability.
+Establishes retention interval as a quantifiable predictor of eyewitness reliability and provides foundational evidence for reliability estimation models.
 
 </div>
 
@@ -34,11 +37,14 @@ Provides foundational evidence regarding how memory decay influences eyewitness 
 **Farmer et al.**  
 *Under review at the Journal of Applied Research in Memory and Cognition*
 
+**Roadmap Stage**  
+Predictive Reliability Estimation
+
 **Summary**  
 This paper develops calibrated probabilistic models that estimate eyewitness identification accuracy across varying witnessing conditions, combining retention interval, viewing distance, and exposure duration.
 
 **Programme Contribution**  
-Provides the probabilistic estimation framework that underpins the broader goal of computational estimation of eyewitness reliability.
+Provides an integrated framework for estimating eyewitness identification accuracy across multiple witnessing conditions.
 
 </div>
 
@@ -51,44 +57,55 @@ Provides the probabilistic estimation framework that underpins the broader goal 
 **Farmer et al.**  
 *Under review at Memory & Cognition*
 
+**Roadmap Stage**  
+Evidence Accumulation and Decision Processes
+
 **Summary**  
 This paper applies drift diffusion modelling to eyewitness identification decisions to investigate how witnessing conditions and confidence influence evidence accumulation.
 
 **Programme Contribution**  
-Provides a computational framework linking witnessing conditions, confidence, response time, and identification accuracy.
+Provides a mechanistic account of how witnessing conditions influence eyewitness identification decisions through evidence accumulation processes.
 
 </div>
 
-## Papers in Development
+## Manuscripts in Preparation
 
 <div class="research-project">
 
-<span class="status-badge development">In Development</span>
+<span class="status-badge development">In Preparation</span>
 
 ### Confidence and Metacognition in Eyewitness Identification
 
+**Roadmap Stage**  
+Decision Indicators
+
 **Summary**  
-This paper investigates confidence calibration and metacognitive sensitivity under varying witnessing conditions.
+This paper investigates confidence calibration, confidence diagnosticity, and metacognitive sensitivity under varying witnessing conditions.
 
 **Programme Contribution**  
-Examines how witnesses evaluate their own memory and the circumstances under which confidence can inform reliability assessments.
+Examines how witnesses evaluate their own memory and identifies the circumstances under which confidence can inform reliability assessments.
 
 </div>
 
 <div class="research-project">
 
-<span class="status-badge development">In Development</span>
+<span class="status-badge development">In Preparation</span>
 
 ### Reassessing the Turnbull Safeguard: Juror Decision-Making and the Evaluation of Identification Evidence
+
+**Roadmap Stage**  
+Translation to Justice
 
 **Summary**  
 This paper examines the Turnbull direction through the lens of cognitive psychology, drawing on research on juror decision-making, narrative construction, heuristic reasoning, and belief revision.
 
 **Programme Contribution**  
-Extends the programme from estimating eyewitness reliability to understanding how eyewitness evidence is interpreted and evaluated within legal decision-making contexts.
+Extends the programme from estimating eyewitness reliability to understanding how eyewitness evidence is interpreted, communicated, and evaluated within legal decision-making contexts.
 
 </div>
 
 ## Research Trajectory
 
-Collectively, these publications contribute to a broader programme seeking to understand how eyewitness evidence is generated, how its reliability can be estimated, and how uncertainty can be communicated within legal settings.
+Collectively, these publications form part of a translational research programme progressing from the study of witnessing conditions and memory processes, through predictive modelling, evidence accumulation, and metacognition, towards the development of scientifically grounded methods for estimating eyewitness reliability and communicating uncertainty within legal decision-making contexts.
+
+The long-term objective is to support more transparent, evidence-based evaluation of eyewitness evidence through research, policy, training, and decision-support resources.

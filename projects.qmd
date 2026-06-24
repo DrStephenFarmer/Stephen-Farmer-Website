@@ -2,7 +2,9 @@
 title: "Projects"
 ---
 
-The projects below contribute to the broader goal of developing scientifically grounded methods for quantifying, estimating, and communicating eyewitness reliability.
+The projects below form part of a broader translational research programme aimed at developing scientifically grounded methods for estimating eyewitness reliability and translating those findings into evidence-based guidance, training, policy, and practice within the justice system.
+
+Each project contributes both to scientific understanding and to the development of practical resources capable of improving the evaluation of eyewitness evidence.
 
 ## Current Research
 
@@ -11,6 +13,9 @@ The projects below contribute to the broader goal of developing scientifically g
 <span class="status-badge completed">Completed</span>
 
 ### Eyewitness Forgetting and Retention Interval Modelling
+
+**Roadmap Stage**  
+Witnessing Conditions
 
 **Research Question**  
 How does eyewitness accuracy change over time?
@@ -21,6 +26,13 @@ This project investigates how retention interval influences eyewitness identific
 **Contribution**  
 Provides foundational evidence regarding how memory decay influences eyewitness reliability.
 
+**Potential Outputs**
+
+- Police training resources
+- Expert witness evidence base
+- Public-facing resources on eyewitness memory
+- Evidence-based guidance regarding delayed eyewitness evidence
+
 </div>
 
 <div class="research-project">
@@ -28,6 +40,9 @@ Provides foundational evidence regarding how memory decay influences eyewitness 
 <span class="status-badge ongoing">Ongoing</span>
 
 ### Estimating Eyewitness Identification Accuracy Across Witnessing Conditions
+
+**Roadmap Stage**  
+Predictive Reliability Estimation
 
 **Research Question**  
 Can eyewitness identification accuracy be estimated probabilistically across varying witnessing conditions?
@@ -38,22 +53,41 @@ This project develops calibrated probabilistic models of eyewitness identificati
 **Contribution**  
 Provides the probabilistic estimation framework that underpins the broader goal of computational estimation of eyewitness reliability.
 
+**Potential Outputs**
+
+- Reliability tables
+- Practitioner guidance
+- Investigative decision-support resources
+- Policy-relevant evidence for evaluating eyewitness evidence
+
 </div>
 
 <div class="research-project">
 
 <span class="status-badge ongoing">Ongoing</span>
 
-### Evidence Diagnosticity as a Common Computational Currency in Eyewitness Identification
+### Evidence Accumulation and Decision Processes in Eyewitness Identification
+
+**Roadmap Stage**  
+Evidence Accumulation and Decision Processes
 
 **Research Question**  
-Can diverse influences on eyewitness performance be understood through a common computational measure of evidence diagnosticity?
+How do eyewitnesses accumulate and evaluate evidence during identification decisions?
 
 **Overview**  
-This project applies drift diffusion modelling to eyewitness decisions to examine how witnessing conditions and confidence influence evidence accumulation, response time, and identification accuracy.
+This project applies computational models of decision-making to eyewitness identification in order to understand how witnessing conditions, confidence, and response time influence evidence accumulation and identification accuracy.
+
+Current work uses drift diffusion modelling as a framework for investigating evidence diagnosticity and decision quality.
 
 **Contribution**  
-Provides a computational framework linking witnessing conditions, confidence, and identification decisions.
+Provides a mechanistic account of eyewitness decision-making and links witnessing conditions to identification outcomes through evidence accumulation processes.
+
+**Potential Outputs**
+
+- Mechanistic explanations of eyewitness decisions
+- Improved predictive models
+- Open-source modelling resources
+- Computational research infrastructure
 
 </div>
 
@@ -63,14 +97,51 @@ Provides a computational framework linking witnessing conditions, confidence, an
 
 ### Confidence and Metacognition in Eyewitness Identification
 
+**Roadmap Stage**  
+Decision Indicators
+
 **Research Question**  
 When and why does confidence predict eyewitness accuracy?
 
 **Overview**  
-This project investigates confidence calibration and metacognitive sensitivity under varying witnessing conditions.
+This project investigates confidence calibration, confidence diagnosticity, and metacognitive monitoring under varying witnessing conditions.
 
 **Contribution**  
-Examines how witnesses evaluate their own memory and when confidence can inform reliability assessments.
+Examines how witnesses evaluate their own memory and when confidence can meaningfully inform reliability assessments.
+
+**Potential Outputs**
+
+- Confidence interpretation guidance
+- Police interview guidance
+- Judicial education resources
+- Expert witness resources
+
+</div>
+
+<div class="research-project">
+
+<span class="status-badge ongoing">Ongoing</span>
+
+### Predictive Reliability Estimation
+
+**Roadmap Stage**  
+Predictive Reliability Estimation
+
+**Research Question**  
+Can eyewitness reliability be estimated using calibrated predictive models that integrate witnessing conditions and decision indicators?
+
+**Overview**  
+This project integrates findings from witnessing conditions, confidence, response time, and computational modelling to develop transparent and calibrated estimates of eyewitness reliability.
+
+**Contribution**  
+Forms the direct pathway toward practical reliability estimation tools capable of supporting evidence evaluation within legal settings.
+
+**Potential Outputs**
+
+- Reliability estimation frameworks
+- Practitioner guidance
+- Investigative decision-support resources
+- Foundations for courtroom applications
 
 </div>
 
@@ -79,6 +150,9 @@ Examines how witnesses evaluate their own memory and when confidence can inform 
 <span class="status-badge ongoing">Ongoing</span>
 
 ### Juror Decision-Making and Communication of Eyewitness Reliability
+
+**Roadmap Stage**  
+Translation to Justice
 
 **Research Question**  
 How can eyewitness reliability and uncertainty be communicated effectively to legal decision-makers?
@@ -91,15 +165,25 @@ Current work includes the evaluation of the Turnbull safeguard and broader inves
 **Contribution**  
 Provides the bridge between computational estimation of eyewitness reliability and its practical application within the justice system.
 
+**Potential Outputs**
+
+- Jury education resources
+- Judicial guidance
+- Communication frameworks
+- Policy recommendations
+
 </div>
 
-## Emerging Research Themes
+## Planned Programme Extensions
 
 <div class="research-project">
 
 <span class="status-badge emerging">Emerging</span>
 
 ### Individual Differences in Eyewitness Performance
+
+**Roadmap Extension**  
+Individual Differences
 
 **Research Question**  
 Why are some individuals more accurate eyewitnesses than others?
@@ -110,7 +194,8 @@ Why are some individuals more accurate eyewitnesses than others?
 - Theoretical development
 - Study design
 
-**Future Objective**  
+**Future Objective**
+
 To identify cognitive, perceptual, and metacognitive characteristics associated with superior eyewitness performance.
 
 </div>
@@ -121,6 +206,9 @@ To identify cognitive, perceptual, and metacognitive characteristics associated 
 
 ### Ecological Validity and Virtual Reality
 
+**Roadmap Extension**  
+Ecological Validation
+
 **Research Question**  
 Do laboratory findings generalise to realistic eyewitness experiences?
 
@@ -130,12 +218,14 @@ Do laboratory findings generalise to realistic eyewitness experiences?
 - VR methodology development
 - Technical infrastructure development
 
-**Future Objective**  
+**Future Objective**
+
 To develop immersive and ecologically valid eyewitness paradigms capable of bridging the gap between laboratory research and real-world witnessing experiences.
 
 </div>
 
 ## Programme Integration
 
-Together, these projects form a coherent programme progressing from the study of witnessing conditions and memory processes, through computational modelling of eyewitness decisions and confidence, towards increasingly realistic witnessing environments and ultimately the communication of reliability estimates to legal decision-makers.
+Together, these projects form a coherent translational research programme progressing from witnessing conditions and decision indicators, through evidence accumulation and predictive modelling, towards ecological validation and the communication of reliability estimates within legal settings.
 
+The long-term objective is to develop scientifically grounded and transparent methods for estimating the probability that an eyewitness identification is correct and to translate those methods into practical guidance, training, policy, and decision-support resources capable of improving the evaluation of eyewitness evidence within the justice system.

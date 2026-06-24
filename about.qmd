@@ -2,47 +2,58 @@
 title: "About"
 ---
 
+I am a psychology lecturer and researcher whose work focuses on eyewitness identification, memory, decision-making, and the application of computational approaches to legal evidence.
 
-I am a psychology lecturer and researcher whose work focuses on eyewitness identification, memory, confidence, decision-making, and the application of computational approaches to legal evidence.
+My research centres on a broader programme aimed at developing scientifically grounded methods for estimating eyewitness reliability and translating those findings into evidence-based guidance, training, policy, and practice within the justice system.
 
-My research seeks to understand how eyewitness evidence is generated, how its reliability can be estimated, and how uncertainty can be communicated within legal decision-making contexts.
+A central goal of this work is to move beyond qualitative assessments of eyewitness evidence towards transparent, interpretable, and empirically calibrated estimates of reliability that can support more informed legal decision-making.
 
-A central aim of this work is to move beyond qualitative assessments of eyewitness evidence towards calibrated, interpretable, and empirically grounded estimates of reliability.
+## Research Programme
 
-## Current Research Programme
+My research programme integrates cognitive psychology, memory science, decision science, computational modelling, metacognition, and legal decision-making research.
 
-The current programme integrates several complementary strands of research:
+Current areas of research include:
 
-- Eyewitness memory and forgetting
 - Witnessing conditions and identification accuracy
-- Probabilistic modelling
-- Evidence accumulation and decision processes
 - Confidence and metacognition
-- Juror decision-making
+- Evidence accumulation and decision processes
+- Probabilistic modelling and reliability estimation
+- Juror decision-making and evidence evaluation
 - Ecological validity and virtual reality
 
-Together, these themes contribute towards the long-term goal of developing scientifically grounded methods for quantifying, estimating, and communicating eyewitness reliability.
+Together, these strands contribute to a translational research programme progressing from the study of eyewitness memory and decision-making towards the development of practical methods for estimating and communicating eyewitness reliability.
 
 ## Research Philosophy
 
 My approach combines basic psychological science with applied legal questions.
 
-I am particularly interested in research that not only explains cognitive processes but also has the potential to improve real-world decision-making. This includes developing models that are transparent, interpretable, and capable of supporting the evaluation of evidence in practical settings.
+I am particularly interested in research that not only advances theoretical understanding of cognition and decision-making, but also has the potential to improve professional practice, public understanding, and legal decision-making.
+
+This includes developing models and frameworks that are transparent, interpretable, empirically grounded, and capable of supporting evidence evaluation in real-world settings.
 
 ## Teaching
 
-Alongside research, I teach undergraduate and postgraduate psychology, with particular interests in cognitive psychology and quantitative research methods, but I have regularly taught all BPS core modules, and others including forensic psychology and cyberpsychology.
+Alongside research, I teach undergraduate and postgraduate psychology, with particular interests in cognitive psychology and quantitative research methods. I have regularly taught all BPS core curriculum areas, as well as specialist modules including forensic psychology and cyberpsychology.
 
-My teaching philosophy emphasises making lessons fun and engaging, confidence-building, accessibility, and active discussion.
+My teaching philosophy emphasises engagement, accessibility, confidence-building, and active discussion. I aim to create learning environments that are intellectually challenging while remaining supportive and inclusive for students from diverse backgrounds.
 
-I receive consistent excellent feedback from students, and compared to peers, mostly achieve the highest average grades across the modules I teach.
+I receive consistently strong student feedback and have frequently achieved the highest average student performance across the modules I teach when compared with parallel teaching teams.
 
 ## Future Directions
 
-Future work will extend the programme through research on individual differences in eyewitness performance, immersive virtual reality methodologies, and the communication of probabilistic evidence to legal decision-makers.
+Future work will extend the programme through:
+
+- Predictive reliability estimation
+- Individual differences in eyewitness performance
+- Immersive virtual reality methodologies
+- Communication of probabilistic evidence
+- Translation of research into professional guidance, policy, and decision-support tools
+
+The long-term ambition is to develop scientifically grounded and transparent methods for estimating eyewitness reliability and to contribute to more informed evaluation of eyewitness evidence within the justice system.
 
 ## Contact
 
-For research collaborations, or general enquiries, please get in touch.
+For research collaborations, funding opportunities, student supervision, or general enquiries, please get in touch.
+
 sfarmer@arden.ac.uk
 

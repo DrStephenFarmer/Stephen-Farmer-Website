@@ -2,66 +2,180 @@
 title: "Impact & Funding"
 ---
 
-This research programme is designed to connect basic psychological science with practical questions about how eyewitness evidence is evaluated in legal contexts.
+This research programme is designed to generate impact throughout its development rather than only upon completion.
 
-## Practical Impact
+Each stage produces both scientific knowledge and practical outputs, creating opportunities to inform professional practice, training, policy, and public understanding while progressively contributing towards the long-term goal of estimating eyewitness reliability.
 
-Eyewitness identification evidence can have substantial consequences for criminal investigations, prosecutions, and jury decision-making. However, courts and investigators often face the challenge of evaluating eyewitness evidence under conditions of uncertainty.
+## Impact Philosophy
 
-This programme aims to support more informed evaluation of eyewitness evidence by developing scientifically grounded approaches for estimating reliability, communicating uncertainty, and improving decision-making.
+Eyewitness evidence remains one of the most influential forms of evidence presented in criminal investigations and criminal trials. Yet decisions regarding eyewitness reliability are often made under conditions of considerable uncertainty.
 
-## Legal and Policy Relevance
+The overarching aim of this programme is to develop scientifically grounded methods for estimating eyewitness reliability and translating those findings into practical resources capable of supporting evidence-based decision-making within the justice system.
 
-The programme has direct relevance to questions concerning:
+Rather than viewing impact as the final outcome of a completed research programme, this approach treats impact as a cumulative process generated throughout successive stages of research.
 
--   eyewitness identification procedures
--   judicial guidance on identification evidence
--   juror interpretation of eyewitness testimony
--   communication of uncertainty in criminal trials
--   evidence-based reform of legal safeguards
--   Investigations
+# Impact Across the Programme
 
-A central long-term aim is to contribute to guidance that is psychologically informed, empirically grounded, and usable within real legal settings.
+## Stage 1: Witnessing Conditions
 
-## Methodological Contributions
+### Research
 
-The programme also contributes methodologically by integrating:
+- Retention interval
+- Separation distance
+- Exposure duration
 
--   probabilistic modelling
--   evidence accumulation models
--   confidence calibration
--   metacognitive analysis
--   immersive virtual reality methods
--   applied jury decision-making research
+### Potential Deliverables
 
-Together, these approaches provide a framework for moving beyond qualitative descriptions of eyewitness risk factors towards calibrated estimates of reliability.
+- Police training materials
+- Professional briefings
+- Expert witness evidence base
+- Public-facing resources on eyewitness memory
 
-## Funding Potential
+### Potential Impact
 
-The programme is well positioned for future funding in areas such as:
+Improved understanding of how witnessing conditions influence eyewitness reliability.
 
--   memory and cognition
--   legal psychology
--   criminal justice
--   computational social science
--   artificial intelligence and decision support
--   immersive technologies and virtual reality
--   evidence communication and public policy
+---
 
-Future grant applications could develop from several strands of the programme, including computational estimation of eyewitness reliability, VR-based eyewitness research, individual differences in eyewitness accuracy, and juror interpretation of probabilistic evidence.
+## Stage 2: Decision Indicators
 
-## Pathway to Impact
+### Research
 
-The long-term pathway to impact involves:
+- Confidence
+- Response time
+- Confidence–accuracy relationships
 
-1.  identifying factors that influence eyewitness reliability
-2.  developing models that estimate accuracy under specified conditions
-3.  validating these models in increasingly realistic settings
-4.  testing how reliability estimates are understood by legal decision-makers
-5.  translating findings into guidance, tools, and policy-relevant recommendations
+### Potential Deliverables
 
-## Long-Term Impact Goal
+- Confidence interpretation guidance
+- Police interview guidance
+- Judicial training resources
+- Expert witness materials
 
-The ultimate impact goal is to improve how eyewitness evidence is interpreted in criminal justice settings by developing transparent, explainable, and empirically grounded methods for estimating and communicating eyewitness reliability.
+### Potential Impact
 
-------------------------------------------------------------------------
+Improved interpretation of witness confidence and decision behaviour.
+
+---
+
+## Stage 3: Evidence Accumulation and Decision Processes
+
+### Research
+
+- Evidence accumulation
+- Computational decision modelling
+- Evidence diagnosticity
+
+### Potential Deliverables
+
+- Mechanistic explanations of eyewitness decisions
+- Open-source modelling resources
+- Computational research infrastructure
+
+### Potential Impact
+
+Improved scientific understanding of eyewitness decision-making and enhanced predictive modelling.
+
+---
+
+## Stage 4: Ecological Validation
+
+### Research
+
+- Virtual reality eyewitness paradigms
+- Realistic witnessing environments
+
+### Potential Deliverables
+
+- Law-enforcement training environments
+- Collaborative research platforms
+- Public engagement demonstrations
+
+### Potential Impact
+
+Greater confidence that research findings generalise to realistic witnessing situations.
+
+---
+
+## Stage 5: Predictive Reliability Estimation
+
+### Research
+
+- Bayesian reliability estimation
+- Predictive modelling
+- Calibration
+
+### Potential Deliverables
+
+- Reliability tables
+- Practitioner guidance
+- Investigative decision-support resources
+
+### Potential Impact
+
+Development of transparent and empirically grounded methods for estimating eyewitness reliability.
+
+---
+
+## Stage 6: Translation to Justice
+
+### Research
+
+- Jury decision-making
+- Probability communication
+- Policy translation
+
+### Potential Deliverables
+
+- Jury education resources
+- Judicial guidance
+- Policy recommendations
+- Decision-support frameworks
+
+### Potential Impact
+
+Improved interpretation and evaluation of eyewitness evidence within legal settings.
+
+# Professional and Policy Relevance
+
+The programme has direct relevance to:
+
+- Eyewitness identification procedures
+- Police investigations
+- Judicial guidance on identification evidence
+- Juror interpretation of eyewitness testimony
+- Communication of uncertainty in criminal trials
+- Evidence-based reform of legal safeguards
+- Criminal justice policy
+
+The long-term objective is to contribute to guidance that is psychologically informed, empirically grounded, and practically usable within real-world legal settings.
+
+# Funding Opportunities
+
+The programme creates opportunities for funding across multiple research domains, including:
+
+- Cognitive psychology and memory
+- Legal and forensic psychology
+- Criminal justice research
+- Computational social science
+- Artificial intelligence and decision-support systems
+- Virtual and augmented reality
+- Public policy and evidence communication
+
+Potential funders include:
+
+- ESRC
+- UK Research and Innovation
+- Leverhulme Trust
+- Nuffield Foundation
+- College of Policing
+- Ministry of Justice
+- Innovate UK
+
+The programme structure allows multiple independent funding streams while maintaining a coherent long-term vision.
+
+# Long-Term Vision
+
+The long-term ambition of the programme is to develop scientifically grounded, transparent, and explainable methods for estimating the probability that an eyewitness identification is correct under specified conditions.
+
+By integrating memory science, decision science, computational modelling, metacognition, and immersive technologies, the programme aims to support more informed evaluation of eyewitness evidence and contribute to fairer, more accurate, and more transparent justice outcomes.
