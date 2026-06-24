@@ -70,7 +70,7 @@ Each stage is designed to generate both scientific knowledge and practical outpu
 <p>
 <a href="programme.html">Explore the full research programme →</a>
 </p>
-<a href="programme.html">View the full research programme →</a>
+
 </p>
 
 </div>
